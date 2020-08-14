@@ -12,11 +12,11 @@ Here is AyagawaSeirin, a student from Shenzhen, China.
 
 I'm a [MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender)), and I think I am just a normal little girl.
 
+I'm interested in coding.In my spare time, I'd like to coding anD writing article. Coding for fun, and I love it.My article would be public in my [blog](https://owomoe.net)(zh-CN).
+
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin&layout=compact">
 </a>
-
-I'm interested in coding.In my spare time, I'd like to coding anD writing article. Coding for fun, and I love it.My article would be public in my [blog](https://owomoe.net)(zh-CN).
 
 ~~You can also find my photo on [Dress](https://github.com/komeiji-satori/Dress/tree/master/AyagawaSeirin(PPLin)).~~
 
