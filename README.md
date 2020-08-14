@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AyagawaSeirin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069">
 </a>
 
-Hi,glad to meet you~
+Hi, glad to meet you~
 
 Here is AyagawaSeirin, a student from Shenzhen, China.
 
