@@ -4,7 +4,6 @@
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AyagawaSeirin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069">
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin"> -->
 </a>
 
 Hi~ glad to meet you!
@@ -16,13 +15,12 @@ I'm a [MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.
 I'm interested in coding.In my spare time, I'd like to coding anD writing article. Coding fo fun, and I love it.My article would be public in my [blog](https://owomoe.net)(zh-CN).
 
 <a href="#">
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AyagawaSeirin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069"> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin">
 </a>
 
-[More about me](https://owomoe.net/other/7.html)
-
 ~~You can also find my photo on [Dress](https://github.com/komeiji-satori/Dress/tree/master/AyagawaSeirin(PPLin)).~~
+
+[More about me](https://owomoe.net/other/7.html)
 
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
