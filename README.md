@@ -10,7 +10,7 @@ Hi, glad to meet you~
 
 Here is AyagawaSeirin, a student from Shenzhen, China.
 
-I'm a [MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender)), and I think I am just a normal little girl.
+I'm a 🏳️‍🌈[MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender))🏳️‍⚧️, and I think I am just a normal little girl.
 
 I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://owomoe.net)(zh-CN).
 
