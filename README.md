@@ -1,7 +1,5 @@
 ## AyagawaSeirin 綾川星凛
 
-> 其生若浮，其死若休
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AyagawaSeirin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
 </a>
@@ -18,13 +16,13 @@ I'm interested in coding. In my spare time, I'd like to write code and article. 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin&layout=compact">
 </a>
 
-~~You can also find my photo on [Dress](https://github.com/komeiji-satori/Dress/tree/master/AyagawaSeirin(PPLin)).~~
+~~You can also find my photo on [Twitter](https://twitter.com/AyagawaSeirin/status/1687013115710644224).~~
 
 [More about me](https://owomoe.net/other/7.html)
 
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
-And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe) and [Telegram group](https://t.me/seirinmoe).
+And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe).
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DAyagawaSeirin&style=for-the-badge)](https://twitter.com/AyagawaSeirin)
 [![Telegram](https://img.shields.io/badge/Telegram-@AyagawaSeirin-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AyagawaSeirin)
