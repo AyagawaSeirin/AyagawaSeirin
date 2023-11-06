@@ -18,6 +18,8 @@ I'm interested in coding. In my spare time, I'd like to write code and article. 
 
 ~~You can also find my photo on [Twitter](https://twitter.com/AyagawaSeirin/status/1687013115710644224).~~
 
+![](https://komarev.com/ghpvc/?username=AyagawaSeirin&color=green)
+
 [More about me](https://owomoe.net/other/7.html)
 
 ### Contact
